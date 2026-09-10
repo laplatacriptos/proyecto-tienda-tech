@@ -9,8 +9,10 @@ Producto: Teclado
 Precio: 5000
 Stock: 12
 Producto: Monitor
-Precio: 80000
+Precio: 195000
 Stock: 4
 PRODUCTOS DESTACADOS
 Notebook
 Monitor
+ACTUALIZACIÓN
+Catálogo revisado por el equipo Front End
