@@ -1,0 +1,7 @@
+TIENDA TECH
+Producto: Notebook
+Precio: 50000
+Stock: 8
+Producto: Mouse
+Precio: 5000
+Stock: 25
