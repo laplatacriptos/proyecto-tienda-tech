@@ -16,3 +16,5 @@ Notebook
 Monitor
 ACTUALIZACIÓN
 Catálogo revisado por el equipo Front End
+DESCUENTO ESPECIAL
+10% en productos seleccionados.
