@@ -5,3 +5,9 @@ Stock: 8
 Producto: Mouse
 Precio: 5000
 Stock: 25
+Producto: Teclado
+Precio: 5000
+Stock: 12
+Producto: Monitor
+Precio: 80000
+Stock: 6
