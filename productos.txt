@@ -11,3 +11,6 @@ Stock: 12
 Producto: Monitor
 Precio: 80000
 Stock: 6
+PRODUCTOS DESTACADOS
+Notebook
+Monitor
